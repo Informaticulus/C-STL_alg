@@ -10,4 +10,4 @@ If you want to change them for all repos, just add --global. Added it below, so 
 - git config --global credential.username "your_username"
 - git config --global user.email "your_email"
 - git config --global user.signingkey your_ssb_hash
-- 
+
